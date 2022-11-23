@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(197, 197, 197);
+  }
+  
+  .form-signin {
+      width: 100%;
+      max-width: 3300px;
+      padding: 20px;
+  }
+  
+  #custom-header{
+    color: orange;
+  }
+  
+  #custom-content{
+    text-align: left;
+    margin-left: 22px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
